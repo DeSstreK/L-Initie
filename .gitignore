@@ -47,7 +47,7 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
-Plugins/*/Binaries/*
+Plugins/**/Binaries/*
 
 # Builds
 Build/*
@@ -68,33 +68,7 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
-Plugins/*/Intermediate/*
+Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Initié/Saved/Telemetry/Telemetry.json
-Initié/Saved/SourceControl/UncontrolledChangelists.json
-Initié/Saved/Logs/Initié.log
-Initié/Saved/Logs/Initié-backup-2024.06.24-14.01.52.log
-Initié/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-Initié/Saved/Config/CrashReportClient/UECC-Windows-985502CC4DF1E9375E1131B50C45BDC7/CrashReportClient.ini
-Initié/Saved/AutoScreenshot.png
-Initié/Intermediate/CachedAssetRegistry_0.bin
-Initié/Saved/Telemetry/Telemetry.json
-Initié/Saved/SourceControl/UncontrolledChangelists.json
-Initié/Saved/Logs/Initié.log
-Initié/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-Initié/Saved/AutoScreenshot.png
-Initié/Intermediate/CachedAssetRegistry_0.bin
-*.json
-Initié/Saved/SourceControl/UncontrolledChangelists.json
-Initié/Saved/Telemetry/Telemetry.json
-Initié/Saved/Logs/Initié.log
-Initié/Saved/Logs/Initié-backup-2024.06.25-12.08.01.log
-Initié/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-Initié/Saved/Config/CrashReportClient/UECC-Windows-E5176EA544A2B2F09243FD918223CA6A/CrashReportClient.ini
-Initié/Saved/Config/CrashReportClient/UECC-Windows-9FB1A71E4DCCFCE70E7BD69B2E812F31/CrashReportClient.ini
-Initié/Saved/Config/CrashReportClient/UECC-Windows-930904374E3657AE5E5801B55DA8F0DE/CrashReportClient.ini
-Initié/Saved/Config/CrashReportClient/UECC-Windows-706CA1EC4094A01EFACCEDA572825ED7/CrashReportClient.ini
-Initié/Saved/AutoScreenshot.png
-Initié/Intermediate/CachedAssetRegistry_0.bin
